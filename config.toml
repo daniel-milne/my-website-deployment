@@ -1,5 +1,5 @@
-baseurl      = "localhost"
-title        = "My Blog"
+baseurl      = "https://danielmilne.xyz"
+title        = "Daniel Milne"
 languageCode = "en-gb"
 theme        = "hello-friend-ng"
 paginate     = 10
